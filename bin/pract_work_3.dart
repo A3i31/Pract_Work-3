@@ -92,5 +92,5 @@ void sum() {
       sum += i;
     }
   }
-  print('Все нечётные целые числа в диапазоне от $startNum до $endNum: $sum');
+  print('Сумму всех нечётных чисел в диапазоне от $startNum до $endNum: $sum');
 }
